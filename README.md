@@ -1,5 +1,5 @@
 # DTbot
-I'm just a 12 year old who wants to make a client-side bot for Dubtrack. I named it DTbot. Feel free to use it if you want.
+I'm just a 13 year old who wants to make a client-side bot for Dubtrack. I named it DTbot. Feel free to use it if you want.
 
 ###Bookmarks Bar Setup:
 
